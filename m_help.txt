@@ -1,0 +1,5 @@
+## Type det to calculate determinant of matrix
+## Type reci to see reciprocal matrix 
+## Type cal to multiply two matrix
+## Type rank to see rank of matrix
+## Type stop to stop

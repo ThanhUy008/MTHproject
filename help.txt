@@ -1,0 +1,19 @@
+### Type bool to solve boolean expression.
+ -Input format must following this format 
++First enter the number of variable. Ex: abcd is 4.
++Second enter the expression. Ex: ab + cd' + abc'd.
+Note: + If the variable is true then write it normally. Ex: abcd.
++ If the variable is false then write a "'" after it name. Ex: b in abcd is false so we write ab'cd.
++ The name of the variables start from "a". Ex: if the expression is 5 variable type,the var are a - b - c - d - e. 
+Or if 3 var they are a - b -c.
+
+### Type vec to doing math on vector
++ Type stop to stop diong math on vector
+
+### Type matrix to do math on matrix
+Note : type help here to see what are the options
++ Type stop to stop doing math on matrix
+
+### Enter equation to solve equations.
+
+Thank you for using this program.
